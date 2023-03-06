@@ -15,7 +15,7 @@
 - 👋 Hi, I’m Zuzanna Kaźmierczak, a beginner fullstack developer from Warsaw, Poland
 - 👀 I’m interested in travelling, history, IT & hardware, PC games
 - 🌱 I’m currently learning to code on a fullstack long-term course
-- 📫 You can reach me at zkazmierczak01@gmail.com
+- 📫 You can reach me at zkazmierczak.webdev@gmail.com
 
 <br>
 

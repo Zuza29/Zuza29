@@ -2,16 +2,6 @@
   <img src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif" width="300"/>
   </div>
 
-<div id="intro" align="center">
-<h1>
-  hi there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-</div>
-
-<!--
-<br>
-<br>
 
 - 👋 Hi, I’m Zuzanna Kaźmierczak, a beginner fullstack developer from Warsaw, Poland
 - 👀 I’m interested in travelling, history, IT & hardware, PC games
